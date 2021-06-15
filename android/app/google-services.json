@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "488910784560",
+    "project_id": "remediez-6d0bb",
+    "storage_bucket": "remediez-6d0bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488910784560:android:14a689c66128ed584705f5",
+        "android_client_info": {
+          "package_name": "com.example.remediez.remedies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488910784560-325bh24r2c52hgdb16je6lli05avpbqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.remediez.remedies",
+            "certificate_hash": "edc56d79600484edd50c21ec0014530fd235d4f8"
+          }
+        },
+        {
+          "client_id": "488910784560-j4tpgfchf0pu97o2csor2r9gea70ruf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs1I9gNutVyekTpb_mgBaE_55acj6cDxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488910784560-j4tpgfchf0pu97o2csor2r9gea70ruf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
